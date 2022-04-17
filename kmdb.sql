@@ -98,6 +98,7 @@
 -- Turns column mode on but headers off
 .mode column
 .headers off
+.width 30 30 30
 
 -- Drop existing tables, so you'll start fresh each time this script is run.
 DROP TABLE movies;
